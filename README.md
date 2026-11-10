@@ -1,9 +1,5 @@
 # Mathematical Statistics
 
-Educational projects in statistical hypothesis testing and regression analysis, prepared as part of my Applied Mathematics and Informatics studies at NRU MPEI.
-
-The notebooks combine mathematical formulations, reproducible simulations, statistical calculations, visualizations and interpretation of results.
-
 ## Projects
 
 | Project | Topics | Technologies |
